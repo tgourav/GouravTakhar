@@ -67,9 +67,9 @@ Indian Institute of Technology – BHU (IIT-BHU) - Varanasi (July 2010 - June 20
 
 ## **Publications**
 
-[Incorrectness Proofs with Underapproximation Invariants]
+[Incorrectness Proofs with Underapproximation Invariants](https://dl.acm.org/doi/pdf/10.1145/3821419)
 Gourav Takhar and Subhajit Roy  
-In ACM Transactions on Software Engineering and Methodology (TOSEM), 2026. (Accepted but not published)
+In ACM Transactions on Software Engineering and Methodology (TOSEM), 2026.
 
 [Memory-Safety Verification of Open Programs With Angelic Assumptions](https://doi.org/10.1145/3763090)
 Gourav Takhar, Baldip Bijlani, Prantik Chatterjee, Akash Lal, and Subhajit Roy
